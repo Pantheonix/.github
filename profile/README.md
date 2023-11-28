@@ -1,12 +1,15 @@
-## Hi there 👋
+## Pantheonix
 
-<!--
+> The **myths** of the past. The **deeds** of the present. The **legends** of the future.
+> 
+> Implement your own myths in our programming pantheon.
 
-**Here are some ideas to get you started:**
+Welcome to **Pantheonix**, a work-in-progress educational platform which aims to be more than a mere competitive programming, interview training, blog or CMS based site...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are aiming towards a holistical approach which is about to encompass all of these and maybe more:
+- a rich competitive programming problems archive from various contests, other platforms or sources
+- contests and ranking (similar to Codeforces approach: virtual contests, editorials, etc.) which can be easily integrated to enhance the student evaluation for specific courses at local profile universities/schools too
+- CLI client for submitting solutions (maybe auth via SSH)
+- blog posts and courses
+- roadmaps for learning new concepts/programming languages similar to Exercism approach (maybe code review from special users/mentors too)
+- support for tasks/checkers/interactive based problems and preview submissions on custom user provided tests (similar to LeetCode approach)
